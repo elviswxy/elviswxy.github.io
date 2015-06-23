@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            Xuyang's Blog
+locale:           en_UK
 url:              
 
 
@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Xuyang Wu
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "A Software developer."
+  email: "elviswu0306@gmail.com"
   disqus-shortname: 
   twitter: #username
   facebook: #username
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: elviswxy
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
