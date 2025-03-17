@@ -3,16 +3,15 @@ layout: page
 permalink: /
 title: about
 nav: About
-description: <a href="https://www.deepmind.com/" class="page-description" target="_blank">Google DeepMind</a> • <a href="https://research.google/teams/brain/" class="page-description" target="_blank">Google Research - Brain Team</a>
-address: <a href="https://www.google.com/maps/place/Googleplex/@37.4220656,-122.0840897,15z/data=!4m2!3m1!1s0x0:0x6c296c66619367e0?sa=X&ved=2ahUKEwjX-_PLwpv_AhXFlWoFHdJPChsQ_BJ6BAhUEAg" class="page-description" target="_blank">Google DeepMind, Mountain View, CA</a>
+description: <a href="https://elviswxy.github.io/" class="page-description" target="_blank">Ph.D. Candidate</a> , <a href="https://www.scu.edu/engineering/" class="page-description" target="_blank">Computer Science</a> , <a href="https://www.scu.edu" class="page-description" target="_blank">Santa Clara Universtity</a> <p></p> <p>elviswu0306 [at] gmail [dot] com</p>
 ---
 
 <div class="col p-0 pt-4 pb-4">
-  <h1 class="pb-3 title text-left font-weight-bold">Rishabh Joshi</h1>
+  <h1 class="pb-3 title text-left font-weight-bold">Xuyang Wu</h1>
   <h6 class="m-0 mb-2" style="font-size: 0.83em;">{{ page.description }}</h6>
-  {% if page.address %}
+  <!-- {% if page.address %}
       <h6 class="m-0 mb-2" style="font-size: 0.83em;">{{ page.address }}</h6>
-  {% endif %}
+  {% endif %} -->
 </div>
 
 <!-- Introduction -->
@@ -23,18 +22,16 @@ address: <a href="https://www.google.com/maps/place/Googleplex/@37.4220656,-122.
           <img class="profile-img img-responsive" src="{{ 'prof_pic.jpg' | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}">
         </div>
 
-        <p>
-  I am a software engineer working on language research at Google Deepmind (formerly Google Research - Brain Team). My current research focus is on improving the generation and alignment capabilities of large language models. Before joining Google, I did my research masters in Language Technologies (MLT) from <a href="http://www.lti.cs.cmu.edu/" target="_blank">Language Technologies Institute</a>, <a href="http://www.cs.cmu.edu/" target="_blank">School of Computer Science</a> at <a href="http://www.cmu.edu/" target="_blank">Carnegie Mellon University</a>, co-advised by <a href="http://www.cs.cmu.edu/~awb/" target="_blank">Alan W Black</a>, <a href="http://www.cs.cmu.edu/~ytsvetko/" target="_blank">Yulia Tsvetkov</a> and <a href="http://www.cs.cmu.edu/~air/" target="_blank">Alex Rudnicky</a>. I'm also a member of <a href="https://tsvetshop.github.io/" target="_blank">Tsvetshop</a>.
-        </p>
+        <p> I am a computer scientist and researcher specializing in deep learning, information retrieval, search and ranking algorithms, recommendation systems, and responsible AI. Currently, I am pursuing a Ph.D. in Computer Science at <a href="https://www.scu.edu" target="_blank">Santa Clara University</a>, where my research focuses on enhancing search engine ranking through multi-task learning and ensuring fairness in AI systems. I also hold an M.Sc. in Web Science and Big Data Analytics from <a href="https://www.ucl.ac.uk" target="_blank">University College London</a> and a B.Sc. in Computer Science from <a href="https://www.coventry.ac.uk" target="_blank">Coventry University</a>, providing me with a strong international academic foundation. </p> 
+        
+        <p> My research aims to improve the accuracy, efficiency, and fairness of search and ranking systems while addressing bias in large language models (LLMs). I have developed multi-task learning frameworks that enhance product ranking, significantly improving click-through rate predictions, with my work published in the ACM Web Conference (WWW 2022) and ACM Transactions on Information Systems (TOIS). </p> 
+        
+        <p> I am also deeply committed to AI fairness and responsible AI, ensuring that large language models—the backbone of modern chatbots and virtual assistants—operate equitably across diverse user groups. My research on LLM fairness, including evaluating bias in Retrieval-Augmented Generation (RAG) and LLM-based ranking models, has been featured in NAACL 2024 and COLING 2025. </p> 
+        
+        <p> Beyond academia, I have gained industry experience as a Data Science Intern at <a href="https://tech.walmart.com/content/walmart-global-tech/en_us.html" target="_blank">Walmart Global Tech</a>, where I optimized search and ranking models, and as a Visiting Researcher at <a href="https://www.docomoinnovations.com" target="_blank">NTT DOCOMO Innovations</a>, developing deep learning applications for real-world challenges. Before embarking on my Ph.D., I co-founded and led a technology startup in Beijing, where I designed and deployed large-scale news recommendation and online advertising systems, serving millions of users. This entrepreneurial experience provided me with deep insights into real-world AI applications and further fueled my passion for advancing responsible AI research. </p> 
+        
+        <p> Feel free to connect with me on <a href="https://www.linkedin.com/in/xuyang-wu/" target="_blank">LinkedIn</a> to discuss research, AI fairness, and more! </p>
 
-        <p>
-  My current research focus is on post-training and alignment, including RLHF and preference optimization of Large Language Models as part of the Gemini Team at Google DeepMind. I'm responsible for publishing papers and landing research ideas to improve Google's Gemini model. I'm also interested in self-improving language models. My research in CMU focused dialogue systems, interpretability and text summarization.
-        </p>
-
-	<p>
-    Before I joined CMU, I worked in Samsung Research Institute, Bangalore, India where I was working in the Voice Intelligence Team on dialogue systems and chat-bots. Before that, I spent a wonderful semester working with <a href="http://talukdar.net" target="_blank">Partha Talukdar</a> at <a href="http://malllabiisc.github.io/" target="_blank">Machine and Language Learning (MALL) Lab</a> in the <a href="https://www.iisc.ac.in/" target="_blank">Indian Institute of Science, Bangalore</a>. I graduated with a B.Eng. in Computer Science from <a href="http://www.bits-pilani.ac.in/pilani/" target="_blank">Birla Institute of Technology and Science, Pilani</a>, India.
-    In my Bachelor's thesis, I worked on incorporating external knowledge in distantly supervised neural relation extraction methods as part of iNELL (which is based on <a href='http://rtw.ml.cmu.edu/rtw/' target='_blank'>NELL</a>).
-	</p>
     </div>
 </div>
 

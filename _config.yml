@@ -2,9 +2,9 @@
 # Site Settings
 # -----------------------------------------------------------------------------
 
-name: Rishabh Joshi
-email: rishabhjoshi0407@gmail.com
-description: Personal website of Rishabh Joshi.
+name: Xuyang Wu
+email: elviswu0306@gmail.com
+description: Personal website of Xuyang Wu.
 
 # footer_text: >
 #   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -17,15 +17,15 @@ baseurl:  # the subpath of your site, e.g. /blog/
 # -----------------------------------------------------------------------------
 # Social Integration
 # -----------------------------------------------------------------------------
-scholar_userid: vu2pNVAAAAAJ
-github_username: rishabhjoshi 
-linkedin_username: joshi-rishabh 
-facebook_username: rishabh.joshi.047
-twitter_username: rishabh_joshi4
+scholar_userid: vYIThvQAAAAJ
+github_username: elviswxy 
+linkedin_username: xuyang-wu 
+facebook_username: xuyang.wu.3
+# twitter_username: 
 contact_note: Feel free to drop me a line via e-mail.
 
 
-google_analytics: UA-105573982-1
+# google_analytics: 
 
 # -----------------------------------------------------------------------------
 # Blog
@@ -85,7 +85,9 @@ plugins:
 
 # Jekyll-Scholar
 scholar:
-  last_name: Joshi
+  # bibliography: _bibliography/papers.bib
+  last_name: Wu
+  first_name: Xuyang
   style: apa
   locale: en
   sort_by: year
