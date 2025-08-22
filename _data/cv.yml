@@ -18,11 +18,12 @@
   type: table
   contents:
   - title: Santa Clara University – Ph.D. in Computer Science
-    year: 2019 – now
+    year: 2019 – 2025
     location: Santa Clara, CA, USA
     description:
             - 'Advisor: <a href="https://www.cse.scu.edu/~yfang/index.html" target="_blank"><b>Prof. Yi Fang</b></a>.'
             - 'Doctoral research focused on deep learning approaches for search ranking and fairness in AI.'
+            - 'Dissertation: Neural Ranking in Sparse Data Environments'
   - title: University College London – M.Sc. in Web Science and Big Data Analytics
     year: 2013 – 2015
     location: London, UK
@@ -40,53 +41,48 @@
   type: table
   contents:
   - title: 'Visiting Researcher at NTT DOCOMO Innovations, Inc.'
-    year: 'Jul 20 - now'
+    year: '2020 - 2025'
     location: Sunnyvale, CA
     description:
             - 'Prototyping deep learning models for real-world applications.'
             - 'Collaborated with cross-functional teams to quickly deploy research prototypes into demonstration products.'
             - 'Developed and tested AI models for 3D image reconstruction from 2D photos, improving model accuracy for real-world scenes.'
   - title: 'Data Scientist at Walmart Global Tech (Summer Intern)'
-    year: 'Jun 22 - Sep 22'
-    location: Sunnyvale, CA
-    description:
-            - 'Applied machine learning to e-commerce search and ranking.'
-            - 'Proposed a meta-learning approach for the product search ranking algorithm to handle sparse training data, enabling the model to generalize better with limited user feedback.'
-            - 'Demonstrated improved ranking performance over existing Learning-to-Rank methods, leading to a publication in ACM TOIS on sparsely supervised ranking.'
     year: 'Summer 2022'
     location: Sunnyvale, CA
     description:
             - 'Applied machine learning to e-commerce search and ranking.'
             - 'Proposed a meta-learning approach for the product search ranking algorithm to handle sparse training data, enabling the model to generalize better with limited user feedback.'
             - 'Demonstrated improved ranking performance over existing Learning-to-Rank methods, leading to a publication in ACM TOIS on sparsely supervised ranking.'
+  - title: 'Data Scientist at Walmart Global Tech (Summer Intern)'
     year: 'Summer 2021'
     location: Sunnyvale, CA
     description:
             - 'Designed an end-to-end multi-task learning framework using BERT (a language model) to jointly learn query understanding and product ranking.'
             - 'Achieved a 5.8% improvement in click-through AUC over the baseline model (XGBoost) on Walmart’s dataset, contributing to a research paper accepted at WWW 2022.'
   - title: 'Teaching Assistant at Santa Clara University'
-    year: 'Jan 21 – Jan 22'
+    year: '2021 – 2022'
     location: Santa Clara, CA
     description:
             - 'Courses assisted: Natural Language Processing, Machine Learning, Operating Systems, Database Systems, Object-Oriented Programming.'
             - 'Led lab sessions and helped students grasp complex concepts through hands-on exercises and one-on-one mentoring.'
             - 'Received positive feedback for clarifying theoretical concepts with practical examples.'
   - title: 'Research Assistant at Markkula Center for Applied Ethics, Santa Clara University'
-    year: Jan 20 – Jan 21
+    year: 2020 – 2021
     location: Santa Clara, CA
     description: 
             - 'NLP Research on media and ethics.'
             - 'Developed an NLP pipeline (with Stanford CoreNLP) to analyze journalistic text, identifying quoted sources and their attributes (gender, title, organization) to study media bias and sourcing diversity.'
             - 'Co-authored a paper on detecting journalistic boundary behaviors, published in the ISOJ 2023 conference proceedings.'
   - title: 'Technical Director at Beijing QingLan Tech Co.'
-    year: Aug 16 – Aug 19
+    year: 2016 – 2019
     location: Beijing, China
     description: 
             - 'Led development of large-scale news recommendation and advertising systems.'
             - 'News Recommendation System: Architected and deployed a content recommendation platform (RESTful API service) serving 30+ news websites and mobile apps.'
             - 'Oversaw modules for data synchronization, cleaning, content classification, and real-time recommendation algorithms. Optimized recommendation strategies, boosting user engagement metrics across various media clients.'
   - title: 'Senior Algorithm Engineer, Beijing Ruangao Technology Co., Ltd'
-    year: Nov 15 – Jul 16
+    year: 2015 – 2016
     location: Beijing, China
     description: 
             - 'Worked on machine learning models for online advertising.'
@@ -178,7 +174,9 @@
         - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
         - Neurocomputing
         - IEEE Access
-        - Frontiers of Computer Science
+        - Journal of the Frontiers of Computer Science
+        - Connection Science
+        - Complex & Intelligent Systems (CAIS)
     - title: Conference Program Committee Member/Reviewer
       items:
         - International Conference on Learning Representations (ICLR)
